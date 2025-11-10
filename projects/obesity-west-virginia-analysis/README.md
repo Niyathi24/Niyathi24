@@ -73,13 +73,9 @@ West Virginia consistently ranks among states with highest adult obesity rates. 
 ## Key Insights
 
 **Rural-Urban Gap is Minimal** - 2.1 percentage point difference challenges conventional assumptions
-
 **Physical Activity is Primary Driver** - Strongest predictor despite high healthcare coverage (96.5%)
-
 **Rural Mid-Income Paradox** - Highest obesity rates (88.1%) suggest location-specific economic mechanisms
-
 **Rural Environmental Advantage** - Active rural residents outperform urban counterparts (13.6 pp benefit vs. 9.2 pp)
-
 **Education Shows Complex Pathway** - Both lowest and highest education levels show better outcomes
 
 ## Recommendations
