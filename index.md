@@ -1,4 +1,3 @@
-## Sreeniyathi Kasireddy
 I am a senior Computer Engineering student at the University of Massachusetts Amherst. I develop systems that connect hardware, AI, and user experience. My background spans embedded systems design, natural language processing, and practical AI deployment. I am particularly interested in building intelligent systems that are both efficient and fair.
 
 ---
