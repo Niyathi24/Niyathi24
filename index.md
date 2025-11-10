@@ -4,7 +4,7 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 ---
 # Projects
 
-<div class="projects-grid">
+<div class="projects-list">
   <div class="project-card" onclick="window.location.href='projects/air-dj-glove/'">
     <div class="project-image">🎵</div>
     <div class="project-content">
@@ -98,20 +98,22 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 </div>
 
 <style>
-.projects-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+.projects-list {
+    display: flex;
+    flex-direction: column;
     gap: 30px;
     margin-top: 30px;
 }
 
 .project-card {
+    display: flex;
+    gap: 20px;
     background: #f9f9f9;
     border-radius: 8px;
     overflow: hidden;
+    border: 1px solid #e0e0e0;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
-    border: 1px solid #e0e0e0;
 }
 
 .project-card:hover {
@@ -120,8 +122,9 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 }
 
 .project-image {
-    width: 100%;
-    height: 200px;
+    width: 180px;
+    height: 180px;
+    min-width: 180px;
     background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
     display: flex;
     align-items: center;
@@ -132,46 +135,50 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 
 .project-content {
     padding: 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .project-title {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
     color: #222;
 }
 
 .project-description {
-    font-size: 13px;
+    font-size: 14px;
     color: #666;
-    line-height: 1.5;
+    line-height: 1.6;
     margin-bottom: 15px;
 }
 
 .project-tech {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
+    gap: 8px;
 }
 
 .tech-tag {
     background: #e8e8e8;
     color: #333;
-    padding: 4px 10px;
+    padding: 5px 12px;
     border-radius: 12px;
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 500;
 }
 
-@media (max-width: 1024px) {
-    .projects-grid {
-        grid-template-columns: repeat(2, 1fr);
+@media (max-width: 768px) {
+    .project-card {
+        flex-direction: column;
     }
-}
 
-@media (max-width: 640px) {
-    .projects-grid {
-        grid-template-columns: 1fr;
+    .project-image {
+        width: 100%;
+        height: 150px;
+        min-width: unset;
     }
 }
 </style>
