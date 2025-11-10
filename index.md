@@ -2,20 +2,179 @@
 I am a senior Computer Engineering student at the University of Massachusetts Amherst. I develop systems that connect hardware, AI, and user experience. My background spans embedded systems design, natural language processing, and practical AI deployment. I am particularly interested in building intelligent systems that are both efficient and fair.
 
 ---
+# Projects
 
+<div class="projects-grid">
+  <div class="project-card" onclick="window.location.href='projects/air-dj-glove/'">
+    <div class="project-image">🎵</div>
+    <div class="project-content">
+      <div class="project-title">Air DJ Glove</div>
+      <div class="project-description">Gesture-controlled music interface for intuitive audio manipulation through hand movements and sensor fusion.</div>
+      <div class="project-tech">
+        <span class="tech-tag">Arduino</span>
+        <span class="tech-tag">Signal Processing</span>
+        <span class="tech-tag">HCI</span>
+      </div>
+    </div>
+  </div>
 
-## Projects
+  <div class="project-card" onclick="window.location.href='projects/ultrasonic-distance-measurement/'">
+    <div class="project-image">📏</div>
+    <div class="project-content">
+      <div class="project-title">Ultrasonic Distance Evaluation</div>
+      <div class="project-description">Real-time sensor systems for accurate distance measurement with embedded data processing and visualization.</div>
+      <div class="project-tech">
+        <span class="tech-tag">C</span>
+        <span class="tech-tag">Embedded Systems</span>
+        <span class="tech-tag">Sensors</span>
+      </div>
+    </div>
+  </div>
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[Air DJ Glove](projects/air-dj-glove/)** | Gesture-controlled music interface for intuitive audio manipulation through hand movements and sensor fusion. | Arduino, Signal Processing, HCI |
-| **[Ultrasonic Distance Evaluation](projects/Ultrasonic Distance Evaluation/)** | Real-time sensor systems for accurate distance measurement with embedded data processing and visualization. | C, Embedded Systems, Sensors |
-| **[Fairness Evaluation in NLP Toxicity Detection Models](projects/Fairness Evaluation in NLP Toxicity Detection Models/)** | Comparative study of pre-trained NLP models for detecting toxic content with fairness metrics and bias evaluation. | NLP, Python, Hugging Face |
-| **[LLM Movie Title Generator](projects/LLM Movie Title Generator/)** | Creative content generation using large language models with comprehensive evaluation metrics for output quality. | LLM, NLP, Python |
-| **[Library Management System](projects/Library Management System/)** | Full-stack web application with SQLite backend, role-based authentication, and responsive frontend using Flask and Jinja2. | Flask, SQL, Authentication, Jinja2 |
-| **[MPI-Parallelized 2D Convolution](projects/MPI-Parallelized 2D Convolution/)** | Accelerated 2D convolution using MPI parallelization with optimized data distribution and inter-process communication. | C, MPI, Parallel Computing |
-| **[Obesity in West Virginia: Socioeconomic & Geographic Drivers](projects/Obesity in West Virginia: Socioeconomic & Geographic Drivers/)** | Comprehensive analysis of factors driving public health challenges with exploratory data analysis and AI-enhanced visualization. | Python, Data Analysis, AI/ML |
+  <div class="project-card" onclick="window.location.href='projects/fairness-evaluation-nlp-toxicity/'">
+    <div class="project-image">🔍</div>
+    <div class="project-content">
+      <div class="project-title">Fairness Evaluation in NLP Toxicity Detection Models</div>
+      <div class="project-description">Comparative study of pre-trained NLP models for detecting toxic content with fairness metrics and bias evaluation.</div>
+      <div class="project-tech">
+        <span class="tech-tag">NLP</span>
+        <span class="tech-tag">Python</span>
+        <span class="tech-tag">Hugging Face</span>
+      </div>
+    </div>
+  </div>
 
+  <div class="project-card" onclick="window.location.href='projects/llm-movie-title-generator/'">
+    <div class="project-image">🎬</div>
+    <div class="project-content">
+      <div class="project-title">LLM Movie Title Generator</div>
+      <div class="project-description">Creative content generation using large language models with comprehensive evaluation metrics for output quality.</div>
+      <div class="project-tech">
+        <span class="tech-tag">LLM</span>
+        <span class="tech-tag">NLP</span>
+        <span class="tech-tag">Python</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="project-card" onclick="window.location.href='projects/library-management-system/'">
+    <div class="project-image">📚</div>
+    <div class="project-content">
+      <div class="project-title">Library Management System</div>
+      <div class="project-description">Full-stack web application with SQLite backend, role-based authentication, and responsive frontend using Flask and Jinja2.</div>
+      <div class="project-tech">
+        <span class="tech-tag">Flask</span>
+        <span class="tech-tag">SQL</span>
+        <span class="tech-tag">Authentication</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="project-card" onclick="window.location.href='projects/mpi-parallelized-2d-convolution/'">
+    <div class="project-image">⚡</div>
+    <div class="project-content">
+      <div class="project-title">MPI-Parallelized 2D Convolution</div>
+      <div class="project-description">Accelerated 2D convolution using MPI parallelization with optimized data distribution and inter-process communication.</div>
+      <div class="project-tech">
+        <span class="tech-tag">C</span>
+        <span class="tech-tag">MPI</span>
+        <span class="tech-tag">Parallel Computing</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="project-card" onclick="window.location.href='projects/obesity-west-virginia-analysis/'">
+    <div class="project-image">📊</div>
+    <div class="project-content">
+      <div class="project-title">Obesity in West Virginia: Socioeconomic & Geographic Drivers</div>
+      <div class="project-description">Comprehensive analysis of factors driving public health challenges with exploratory data analysis and AI-enhanced visualization.</div>
+      <div class="project-tech">
+        <span class="tech-tag">Python</span>
+        <span class="tech-tag">Data Analysis</span>
+        <span class="tech-tag">AI/ML</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.project-card {
+    background: #f9f9f9;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    border: 1px solid #e0e0e0;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.project-image {
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    color: #ccc;
+}
+
+.project-content {
+    padding: 20px;
+}
+
+.project-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #222;
+}
+
+.project-description {
+    font-size: 13px;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.project-tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.tech-tag {
+    background: #e8e8e8;
+    color: #333;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+@media (max-width: 1024px) {
+    .projects-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 640px) {
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
 ---
 
 ## Skills
