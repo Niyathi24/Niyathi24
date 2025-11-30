@@ -6,7 +6,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 ## AI & Machine Learning & Data Science
 <div class="projects-grid">
   <div class="project-card" onclick="window.location.href='projects/fairness-evaluation-nlp-toxicity/'">
-    <div class="project-image">🔍</div>
     <div class="project-content">
       <div class="project-title">Fairness Evaluation in NLP Toxicity Detection Models</div>
       <div class="project-description">Comparative study of pre-trained NLP models for detecting toxic content with fairness metrics and bias evaluation.</div>
@@ -20,7 +19,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
   
   <div class="project-card" onclick="window.location.href='projects/vue-nir-emotion-detection/'">
-    <div class="project-image">🧠</div>
     <div class="project-content">
       <div class="project-title">VueNir: Emotion & Crisis Detection System</div>
       <div class="project-description">Fine-tuned BERT with dual classification heads for 28 emotions and crisis-risk detection, improving performance by 10% through data balancing and custom loss functions.</div>
@@ -34,7 +32,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
 
   <div class="project-card" onclick="window.location.href='projects/voice-shopping-assistant/'">
-    <div class="project-image">🎤</div>
     <div class="project-content">
       <div class="project-title">Voice-Controlled Shopping Assistant</div>
       <div class="project-description">Built AI-powered Chrome extension with Picovoice Rhino speech recognition, enabling voice-controlled cart management and dual input modes.</div>
@@ -48,7 +45,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
 
   <div class="project-card" onclick="window.location.href='projects/neural-network-optimization/'">
-    <div class="project-image">🧠</div>
     <div class="project-content">
       <div class="project-title">Neural Network Optimization & Regularization</div>
       <div class="project-description">Built CNNs from scratch and systematically evaluated optimization algorithms and regularization techniques, achieving 70.42% accuracy on CINIC-10.</div>
@@ -62,7 +58,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
   
   <div class="project-card" onclick="window.location.href='projects/neural-complete-rnn/'">
-    <div class="project-image">📝</div>
     <div class="project-content">
       <div class="project-title">Neural Complete: Character-Level RNN</div>
       <div class="project-description">Implemented character-level RNN from scratch for text generation, achieving 100% accuracy on alphabet sequences and 55% on War and Peace with systematic hyperparameter optimization.</div>
@@ -76,7 +71,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
 
   <div class="project-card" onclick="window.location.href='projects/llm-movie-title-generator/'">
-    <div class="project-image">🎬</div>
     <div class="project-content">
       <div class="project-title">LLM Movie Title Generator</div>
       <div class="project-description">Creative content generation using large language models with comprehensive evaluation metrics for output quality.</div>
@@ -89,7 +83,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
   
   <div class="project-card" onclick="window.location.href='projects/mpi-parallelized-2d-convolution/'">
-    <div class="project-image">⚡</div>
     <div class="project-content">
       <div class="project-title">MPI-Parallelized 2D Convolution</div>
       <div class="project-description">Accelerated 2D convolution using MPI parallelization with optimized data distribution and inter-process communication.</div>
@@ -102,7 +95,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
   
   <div class="project-card" onclick="window.location.href='projects/obesity-west-virginia-analysis/'">
-    <div class="project-image">📊</div>
     <div class="project-content">
       <div class="project-title">Obesity in West Virginia: Socioeconomic & Geographic Drivers</div>
       <div class="project-description">Comprehensive analysis of factors driving public health challenges with exploratory data analysis and AI-enhanced visualization.</div>
@@ -118,7 +110,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 ## Embedded Systems & Hardware
 <div class="projects-grid">
   <div class="project-card" onclick="window.location.href='projects/wavemix-etextile-dj-control/'">
-    <div class="project-image">🎵</div>
     <div class="project-content">
       <div class="project-title">WaveMix: E-textile Gesture-Based DJ Control System</div>
       <div class="project-description">Gesture-controlled music interface for intuitive audio manipulation through hand movements and sensor fusion.</div>
@@ -133,7 +124,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
 
   <div class="project-card" onclick="window.location.href='projects/weather-microground-station/'">
-    <div class="project-image">🌤️</div>
     <div class="project-content">
       <div class="project-title">Weather Microground</div>
       <div class="project-description">Low-power embedded weather station with ePaper display providing real-time analytics and storm prediction without cloud dependency.</div>
@@ -146,7 +136,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
 
   <div class="project-card" onclick="window.location.href='projects/ultrasonic-distance-measurement/'">
-    <div class="project-image">📏</div>
     <div class="project-content">
       <div class="project-title">Ultrasonic Distance Evaluation</div>
       <div class="project-description">Real-time sensor systems for accurate distance measurement with embedded data processing and visualization.</div>
@@ -160,7 +149,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
 
   <div class="project-card" onclick="window.location.href='projects/digital-thermometer/'">
-    <div class="project-image">🌡️</div>
     <div class="project-content">
       <div class="project-title">Intelligent Digital Thermometer</div>
       <div class="project-description">High-precision temperature monitoring system with dual-display output, unit conversion, and visual alerts for critical thresholds.</div>
@@ -177,7 +165,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 ## Software Applications
 <div class="projects-grid">
   <div class="project-card" onclick="window.location.href='projects/library-management-system/'">
-    <div class="project-image">📚</div>
     <div class="project-content">
       <div class="project-title">Library Management System</div>
       <div class="project-description">Full-stack web application with SQLite backend, role-based authentication, and responsive frontend using Flask and Jinja2.</div>
@@ -190,7 +177,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
 
   <div class="project-card" onclick="window.location.href='projects/snake-game/'">
-    <div class="project-image">🐍</div>
     <div class="project-content">
       <div class="project-title">Snake Game</div>
       <div class="project-description">Retro arcade game.</div>
