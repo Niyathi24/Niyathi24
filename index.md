@@ -3,33 +3,8 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 ---
 # Projects
 
+## AI & Machine Learning & Data Science
 <div class="projects-list">
-  <div class="project-card" onclick="window.location.href='projects/air-dj-glove/'">
-    <div class="project-image">🎵</div>
-    <div class="project-content">
-      <div class="project-title">Air DJ Glove</div>
-      <div class="project-description">Gesture-controlled music interface for intuitive audio manipulation through hand movements and sensor fusion.</div>
-      <div class="project-tech">
-        <span class="tech-tag">Arduino</span>
-        <span class="tech-tag">Signal Processing</span>
-        <span class="tech-tag">HCI</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="project-card" onclick="window.location.href='projects/ultrasonic-distance-measurement/'">
-    <div class="project-image">📏</div>
-    <div class="project-content">
-      <div class="project-title">Ultrasonic Distance Evaluation</div>
-      <div class="project-description">Real-time sensor systems for accurate distance measurement with embedded data processing and visualization.</div>
-      <div class="project-tech">
-        <span class="tech-tag">C</span>
-        <span class="tech-tag">Embedded Systems</span>
-        <span class="tech-tag">Sensors</span>
-      </div>
-    </div>
-  </div>
-
   <div class="project-card" onclick="window.location.href='projects/fairness-evaluation-nlp-toxicity/'">
     <div class="project-image">🔍</div>
     <div class="project-content">
@@ -39,9 +14,24 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
         <span class="tech-tag">NLP</span>
         <span class="tech-tag">Python</span>
         <span class="tech-tag">Hugging Face</span>
+        <span class="tech-tag">Fairness</span>
       </div>
     </div>
   </div>
+
+<div class="project-card" onclick="window.location.href='projects/neural-network-optimization/'">
+    <div class="project-image">🧠</div>
+    <div class="project-content">
+        <div class="project-title">Neural Network Optimization & Regularization</div>
+        <div class="project-description">Built CNNs from scratch and systematically evaluated optimization algorithms and regularization techniques, achieving 70.42% accuracy on CINIC-10.</div>
+        <div class="project-tech">
+            <span class="tech-tag">PyTorch</span>
+            <span class="tech-tag">CNN</span>
+            <span class="tech-tag">Optimization</span>
+            <span class="tech-tag">Regularization</span>
+        </div>
+    </div>
+</div>
 
   <div class="project-card" onclick="window.location.href='projects/llm-movie-title-generator/'">
     <div class="project-image">🎬</div>
@@ -56,31 +46,20 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
     </div>
   </div>
 
-  <div class="project-card" onclick="window.location.href='projects/library-management-system/'">
-    <div class="project-image">📚</div>
-    <div class="project-content">
-      <div class="project-title">Library Management System</div>
-      <div class="project-description">Full-stack web application with SQLite backend, role-based authentication, and responsive frontend using Flask and Jinja2.</div>
-      <div class="project-tech">
-        <span class="tech-tag">Flask</span>
-        <span class="tech-tag">SQL</span>
-        <span class="tech-tag">Authentication</span>
-      </div>
-    </div>
-  </div>
-
+<div class="projects-list">
   <div class="project-card" onclick="window.location.href='projects/mpi-parallelized-2d-convolution/'">
     <div class="project-image">⚡</div>
     <div class="project-content">
       <div class="project-title">MPI-Parallelized 2D Convolution</div>
       <div class="project-description">Accelerated 2D convolution using MPI parallelization with optimized data distribution and inter-process communication.</div>
       <div class="project-tech">
-        <span class="tech-tag">C</span>
+        <span class="tech-tag">Python</span>
         <span class="tech-tag">MPI</span>
         <span class="tech-tag">Parallel Computing</span>
       </div>
     </div>
   </div>
+</div>
 
   <div class="project-card" onclick="window.location.href='projects/obesity-west-virginia-analysis/'">
     <div class="project-image">📊</div>
@@ -95,6 +74,108 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
     </div>
   </div>
 </div>
+
+## Embedded Systems & Hardware
+<div class="projects-list">
+  <div class="project-card" onclick="window.location.href='projects/air-dj-glove/'">
+    <div class="project-image">🎵</div>
+    <div class="project-content">
+      <div class="project-title">WaveMix: E-textile Gesture-Based DJ Control System</div>
+      <div class="project-description">Gesture-controlled music interface for intuitive audio manipulation through hand movements and sensor fusion.</div>
+      <div class="project-tech">
+        <span class="tech-tag">ESP32</span>
+        <span class="tech-tag">Signal Processing</span>
+        <span class="tech-tag">HCI</span>
+        <span class="tech-tag">Web Audio API</span>
+        <span class="tech-tag">C</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="project-card" onclick="window.location.href='projects/weather-microground/'">
+    <div class="project-image">🌤️</div>
+    <div class="project-content">
+      <div class="project-title">Weather Microground</div>
+      <div class="project-description">Low-power embedded weather station with ePaper display providing real-time analytics and storm prediction without cloud dependency.</div>
+      <div class="project-tech">
+        <span class="tech-tag">Embedded C</span>
+        <span class="tech-tag">RTOS</span>
+        <span class="tech-tag">Power Optimization</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="project-card" onclick="window.location.href='projects/ultrasonic-distance-measurement/'">
+    <div class="project-image">📏</div>
+    <div class="project-content">
+      <div class="project-title">Ultrasonic Distance Evaluation</div>
+      <div class="project-description">Real-time sensor systems for accurate distance measurement with embedded data processing and visualization.</div>
+      <div class="project-tech">
+        <span class="tech-tag">C</span>
+        <span class="tech-tag">Embedded Systems</span>
+        <span class="tech-tag">Sensors</span>
+        <span class="tech-tag">Arduino</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="project-card" onclick="window.location.href='projects/digital-thermometer/'">
+    <div class="project-image">🌡️</div>
+    <div class="project-content">
+      <div class="project-title">Intelligent Digital Thermometer</div>
+      <div class="project-description">High-precision temperature monitoring system with dual-display output, unit conversion, and visual alerts for critical thresholds.</div>
+      <div class="project-tech">
+        <span class="tech-tag">Arduino</span>
+        <span class="tech-tag">C</span>
+        <span class="tech-tag">Sensors</span>
+        <span class="tech-tag">Embedded Systems</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Software Applications
+<div class="projects-list">
+  <div class="project-card" onclick="window.location.href='projects/library-management-system/'">
+    <div class="project-image">📚</div>
+    <div class="project-content">
+      <div class="project-title">Library Management System</div>
+      <div class="project-description">Full-stack web application with SQLite backend, role-based authentication, and responsive frontend using Flask and Jinja2.</div>
+      <div class="project-tech">
+        <span class="tech-tag">Flask</span>
+        <span class="tech-tag">SQL</span>
+        <span class="tech-tag">Authentication</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="project-card" onclick="window.location.href='projects/tetris-game/'">
+    <div class="project-image">🧩</div>
+    <div class="project-content">
+      <div class="project-title">Tetris Game</div>
+      <div class="project-description">Classic puzzle game implementation with smooth controls, score tracking, and level progression system.</div>
+      <div class="project-tech">
+        <span class="tech-tag">Python</span>
+        <span class="tech-tag">Pygame</span>
+        <span class="tech-tag">Game Development</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="project-card" onclick="window.location.href='projects/snake-game/'">
+    <div class="project-image">🐍</div>
+    <div class="project-content">
+      <div class="project-title">Snake Game</div>
+      <div class="project-description">Retro arcade game.</div>
+      <div class="project-tech">
+        <span class="tech-tag">Python</span>
+        <span class="tech-tag">Pygame</span>
+        <span class="tech-tag">Game Logic</span>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <style>
 .projects-list {
