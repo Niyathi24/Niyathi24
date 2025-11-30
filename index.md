@@ -18,7 +18,35 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
         </div>
       </div>
     </div>
-  
+    
+  <div class="project-card" onclick="window.location.href='projects/vue-nir-emotion-detection/'">
+    <div class="project-image">🧠</div>
+    <div class="project-content">
+        <div class="project-title">VueNir: Emotion & Crisis Detection System</div>
+        <div class="project-description">Fine-tuned BERT with dual classification heads for 28 emotions and crisis-risk detection, improving performance by 10% through data balancing and custom loss functions.</div>
+        <div class="project-tech">
+            <span class="tech-tag">BERT</span>
+            <span class="tech-tag">NLP</span>
+            <span class="tech-tag">PyTorch</span>
+            <span class="tech-tag">Data Pipeline</span>
+        </div>
+    </div>
+</div>
+
+<div class="project-card" onclick="window.location.href='projects/voice-shopping-assistant/'">
+    <div class="project-image">🎤</div>
+    <div class="project-content">
+        <div class="project-title">Voice-Controlled Shopping Assistant</div>
+        <div class="project-description">Built AI-powered Chrome extension with Picovoice Rhino speech recognition, enabling voice-controlled cart management and dual input modes.</div>
+        <div class="project-tech">
+            <span class="tech-tag">JavaScript</span>
+            <span class="tech-tag">Chrome Extension</span>
+            <span class="tech-tag">Speech Recognition</span>
+            <span class="tech-tag">Web Development</span>
+        </div>
+    </div>
+</div>
+
   <div class="project-card" onclick="window.location.href='projects/neural-network-optimization/'">
       <div class="project-image">🧠</div>
       <div class="project-content">
@@ -74,7 +102,7 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
       </div>
     </div>
   </div>
-
+  
   <div class="project-card" onclick="window.location.href='projects/obesity-west-virginia-analysis/'">
     <div class="project-image">📊</div>
     <div class="project-content">
@@ -91,7 +119,7 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 
 ## Embedded Systems & Hardware
 <div class="projects-list">
-  <div class="project-card" onclick="window.location.href='projects/air-dj-glove/'">
+  <div class="project-card" onclick="window.location.href='projects/wavemix-etextile-dj-control/'">
     <div class="project-image">🎵</div>
     <div class="project-content">
       <div class="project-title">WaveMix: E-textile Gesture-Based DJ Control System</div>
@@ -106,7 +134,7 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
     </div>
   </div>
 
-  <div class="project-card" onclick="window.location.href='projects/weather-microground/'">
+  <div class="project-card" onclick="window.location.href='projects/weather-microground-station/'">
     <div class="project-image">🌤️</div>
     <div class="project-content">
       <div class="project-title">Weather Microground</div>
@@ -268,11 +296,8 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 ## Skills
 
 **Languages:** Python, C, ARM Assembly, MATLAB, JavaScript, SQL
-
 **ML/AI:** TensorFlow, PyTorch, NLP, Deep Learning, Hugging Face
-
 **Embedded:** Arduino, Raspberry Pi, Beaglebone Black, Signal Processing
-
 **Web:** Flask, HTML, SQL, Database Design
 
 
