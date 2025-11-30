@@ -4,75 +4,75 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 # Projects
 
 ## AI & Machine Learning & Data Science
-  <div class="projects-list">
-    <div class="project-card" onclick="window.location.href='projects/fairness-evaluation-nlp-toxicity/'">
-      <div class="project-image">🔍</div>
-      <div class="project-content">
-        <div class="project-title">Fairness Evaluation in NLP Toxicity Detection Models</div>
-        <div class="project-description">Comparative study of pre-trained NLP models for detecting toxic content with fairness metrics and bias evaluation.</div>
-        <div class="project-tech">
-          <span class="tech-tag">NLP</span>
-          <span class="tech-tag">Python</span>
-          <span class="tech-tag">Hugging Face</span>
-          <span class="tech-tag">Fairness</span>
-        </div>
+<div class="projects-grid">
+  <div class="project-card" onclick="window.location.href='projects/fairness-evaluation-nlp-toxicity/'">
+    <div class="project-image">🔍</div>
+    <div class="project-content">
+      <div class="project-title">Fairness Evaluation in NLP Toxicity Detection Models</div>
+      <div class="project-description">Comparative study of pre-trained NLP models for detecting toxic content with fairness metrics and bias evaluation.</div>
+      <div class="project-tech">
+        <span class="tech-tag">NLP</span>
+        <span class="tech-tag">Python</span>
+        <span class="tech-tag">Hugging Face</span>
+        <span class="tech-tag">Fairness</span>
       </div>
     </div>
-    
+  </div>
+  
   <div class="project-card" onclick="window.location.href='projects/vue-nir-emotion-detection/'">
     <div class="project-image">🧠</div>
     <div class="project-content">
-        <div class="project-title">VueNir: Emotion & Crisis Detection System</div>
-        <div class="project-description">Fine-tuned BERT with dual classification heads for 28 emotions and crisis-risk detection, improving performance by 10% through data balancing and custom loss functions.</div>
-        <div class="project-tech">
-            <span class="tech-tag">BERT</span>
-            <span class="tech-tag">NLP</span>
-            <span class="tech-tag">PyTorch</span>
-            <span class="tech-tag">Data Pipeline</span>
-        </div>
+      <div class="project-title">VueNir: Emotion & Crisis Detection System</div>
+      <div class="project-description">Fine-tuned BERT with dual classification heads for 28 emotions and crisis-risk detection, improving performance by 10% through data balancing and custom loss functions.</div>
+      <div class="project-tech">
+        <span class="tech-tag">BERT</span>
+        <span class="tech-tag">NLP</span>
+        <span class="tech-tag">PyTorch</span>
+        <span class="tech-tag">Data Pipeline</span>
+      </div>
     </div>
-</div>
+  </div>
 
-<div class="project-card" onclick="window.location.href='projects/voice-shopping-assistant/'">
+  <div class="project-card" onclick="window.location.href='projects/voice-shopping-assistant/'">
     <div class="project-image">🎤</div>
     <div class="project-content">
-        <div class="project-title">Voice-Controlled Shopping Assistant</div>
-        <div class="project-description">Built AI-powered Chrome extension with Picovoice Rhino speech recognition, enabling voice-controlled cart management and dual input modes.</div>
-        <div class="project-tech">
-            <span class="tech-tag">JavaScript</span>
-            <span class="tech-tag">Chrome Extension</span>
-            <span class="tech-tag">Speech Recognition</span>
-            <span class="tech-tag">Web Development</span>
-        </div>
+      <div class="project-title">Voice-Controlled Shopping Assistant</div>
+      <div class="project-description">Built AI-powered Chrome extension with Picovoice Rhino speech recognition, enabling voice-controlled cart management and dual input modes.</div>
+      <div class="project-tech">
+        <span class="tech-tag">JavaScript</span>
+        <span class="tech-tag">Chrome Extension</span>
+        <span class="tech-tag">Speech Recognition</span>
+        <span class="tech-tag">Web Development</span>
+      </div>
     </div>
-</div>
+  </div>
 
   <div class="project-card" onclick="window.location.href='projects/neural-network-optimization/'">
-      <div class="project-image">🧠</div>
-      <div class="project-content">
-          <div class="project-title">Neural Network Optimization & Regularization</div>
-          <div class="project-description">Built CNNs from scratch and systematically evaluated optimization algorithms and regularization techniques, achieving 70.42% accuracy on CINIC-10.</div>
-          <div class="project-tech">
-              <span class="tech-tag">PyTorch</span>
-              <span class="tech-tag">CNN</span>
-              <span class="tech-tag">Optimization</span>
-              <span class="tech-tag">Regularization</span>
-          </div>
+    <div class="project-image">🧠</div>
+    <div class="project-content">
+      <div class="project-title">Neural Network Optimization & Regularization</div>
+      <div class="project-description">Built CNNs from scratch and systematically evaluated optimization algorithms and regularization techniques, achieving 70.42% accuracy on CINIC-10.</div>
+      <div class="project-tech">
+        <span class="tech-tag">PyTorch</span>
+        <span class="tech-tag">CNN</span>
+        <span class="tech-tag">Optimization</span>
+        <span class="tech-tag">Regularization</span>
       </div>
+    </div>
   </div>
   
   <div class="project-card" onclick="window.location.href='projects/neural-complete-rnn/'">
-      <div class="project-image">📝</div>
-      <div class="project-content">
-          <div class="project-title">Neural Complete: Character-Level RNN</div>
-          <div class="project-description">Implemented character-level RNN from scratch for text generation, achieving 100% accuracy on alphabet sequences and 55% on War and Peace with systematic hyperparameter optimization.</div>
-          <div class="project-tech">
-              <span class="tech-tag">PyTorch</span>
-              <span class="tech-tag">RNN</span>
-              <span class="tech-tag">NLP</span>
-              <span class="tech-tag">Hyperparameter Tuning</span>
-          </div>
+    <div class="project-image">📝</div>
+    <div class="project-content">
+      <div class="project-title">Neural Complete: Character-Level RNN</div>
+      <div class="project-description">Implemented character-level RNN from scratch for text generation, achieving 100% accuracy on alphabet sequences and 55% on War and Peace with systematic hyperparameter optimization.</div>
+      <div class="project-tech">
+        <span class="tech-tag">PyTorch</span>
+        <span class="tech-tag">RNN</span>
+        <span class="tech-tag">NLP</span>
+        <span class="tech-tag">Hyperparameter Tuning</span>
       </div>
+    </div>
   </div>
 
   <div class="project-card" onclick="window.location.href='projects/llm-movie-title-generator/'">
@@ -88,17 +88,15 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
     </div>
   </div>
   
-  <div class="projects-list">
-    <div class="project-card" onclick="window.location.href='projects/mpi-parallelized-2d-convolution/'">
-      <div class="project-image">⚡</div>
-      <div class="project-content">
-        <div class="project-title">MPI-Parallelized 2D Convolution</div>
-        <div class="project-description">Accelerated 2D convolution using MPI parallelization with optimized data distribution and inter-process communication.</div>
-        <div class="project-tech">
-          <span class="tech-tag">Python</span>
-          <span class="tech-tag">MPI</span>
-          <span class="tech-tag">Parallel Computing</span>
-        </div>
+  <div class="project-card" onclick="window.location.href='projects/mpi-parallelized-2d-convolution/'">
+    <div class="project-image">⚡</div>
+    <div class="project-content">
+      <div class="project-title">MPI-Parallelized 2D Convolution</div>
+      <div class="project-description">Accelerated 2D convolution using MPI parallelization with optimized data distribution and inter-process communication.</div>
+      <div class="project-tech">
+        <span class="tech-tag">Python</span>
+        <span class="tech-tag">MPI</span>
+        <span class="tech-tag">Parallel Computing</span>
       </div>
     </div>
   </div>
@@ -118,7 +116,7 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 </div>
 
 ## Embedded Systems & Hardware
-<div class="projects-list">
+<div class="projects-grid">
   <div class="project-card" onclick="window.location.href='projects/wavemix-etextile-dj-control/'">
     <div class="project-image">🎵</div>
     <div class="project-content">
@@ -177,7 +175,7 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 </div>
 
 ## Software Applications
-<div class="projects-list">
+<div class="projects-grid">
   <div class="project-card" onclick="window.location.href='projects/library-management-system/'">
     <div class="project-image">📚</div>
     <div class="project-content">
@@ -205,90 +203,91 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
   </div>
 </div>
 
-
 <style>
-.projects-list {
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
-    margin-top: 30px;
+.projects-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 20px 0;
 }
 
 .project-card {
-    display: flex;
-    gap: 20px;
-    background: #f9f9f9;
-    border-radius: 8px;
-    overflow: hidden;
-    border: 1px solid #e0e0e0;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
+  flex: 1 1 calc(33.333% - 20px);
+  min-width: 300px;
+  display: flex;
+  gap: 20px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #e0e0e0;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
 }
 
 .project-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
 }
 
 .project-image {
-    width: 180px;
-    height: 180px;
-    min-width: 180px;
-    background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 60px;
-    color: #ccc;
+  width: 180px;
+  height: 180px;
+  min-width: 180px;
+  background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 60px;
+  color: #ccc;
 }
 
 .project-content {
-    padding: 20px;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  padding: 20px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .project-title {
-    font-size: 18px;
-    font-weight: 600;
-    margin-bottom: 10px;
-    color: #222;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #222;
 }
 
 .project-description {
-    font-size: 14px;
-    color: #666;
-    line-height: 1.6;
-    margin-bottom: 15px;
+  font-size: 14px;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 15px;
 }
 
 .project-tech {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .tech-tag {
-    background: #e8e8e8;
-    color: #333;
-    padding: 5px 12px;
-    border-radius: 12px;
-    font-size: 12px;
-    font-weight: 500;
+  background: #e8e8e8;
+  color: #333;
+  padding: 5px 12px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 500;
 }
 
 @media (max-width: 768px) {
-    .project-card {
-        flex-direction: column;
-    }
+  .project-card {
+    flex-direction: column;
+  }
 
-    .project-image {
-        width: 100%;
-        height: 150px;
-        min-width: unset;
-    }
+  .project-image {
+    width: 100%;
+    height: 150px;
+    min-width: unset;
+  }
 }
 </style>
 ---
@@ -299,6 +298,3 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 **ML/AI:** TensorFlow, PyTorch, NLP, Deep Learning, Hugging Face
 **Embedded:** Arduino, Raspberry Pi, Beaglebone Black, Signal Processing
 **Web:** Flask, HTML, SQL, Database Design
-
-
-
