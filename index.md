@@ -164,7 +164,7 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 
 ## Software Applications
 <div class="projects-grid">
-  <div class="project-card" onclick="window.location.href='projects/library-management-system/'">
+  <div class="project-card" onclick="window.open('https://github.com/Niyathi24/LibMan.git')">
     <div class="project-content">
       <div class="project-title">Library Management System</div>
       <div class="project-description">Full-stack web application with SQLite backend, role-based authentication, and responsive frontend using Flask and Jinja2.</div>
