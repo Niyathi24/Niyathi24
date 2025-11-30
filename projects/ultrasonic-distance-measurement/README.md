@@ -46,7 +46,3 @@ Design and build a real-time embedded system that measures object distance using
 - **Platform:** Arduino C/C++
 - **Hardware:** HC-SR04 Ultrasonic Sensor, 4-digit 7-segment LED Display
 - **Methods:** Hardware interrupts, display multiplexing, real-time systems design.
-
----
-
-This follows the exact same structure and formatting as your LLM Movie Title Generator README, with proper headers, code blocks, bullet points, and emoji indicators.
