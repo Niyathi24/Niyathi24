@@ -4,34 +4,48 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 # Projects
 
 ## AI & Machine Learning & Data Science
-<div class="projects-list">
-  <div class="project-card" onclick="window.location.href='projects/fairness-evaluation-nlp-toxicity/'">
-    <div class="project-image">🔍</div>
-    <div class="project-content">
-      <div class="project-title">Fairness Evaluation in NLP Toxicity Detection Models</div>
-      <div class="project-description">Comparative study of pre-trained NLP models for detecting toxic content with fairness metrics and bias evaluation.</div>
-      <div class="project-tech">
-        <span class="tech-tag">NLP</span>
-        <span class="tech-tag">Python</span>
-        <span class="tech-tag">Hugging Face</span>
-        <span class="tech-tag">Fairness</span>
+  <div class="projects-list">
+    <div class="project-card" onclick="window.location.href='projects/fairness-evaluation-nlp-toxicity/'">
+      <div class="project-image">🔍</div>
+      <div class="project-content">
+        <div class="project-title">Fairness Evaluation in NLP Toxicity Detection Models</div>
+        <div class="project-description">Comparative study of pre-trained NLP models for detecting toxic content with fairness metrics and bias evaluation.</div>
+        <div class="project-tech">
+          <span class="tech-tag">NLP</span>
+          <span class="tech-tag">Python</span>
+          <span class="tech-tag">Hugging Face</span>
+          <span class="tech-tag">Fairness</span>
+        </div>
       </div>
     </div>
+  
+  <div class="project-card" onclick="window.location.href='projects/neural-network-optimization/'">
+      <div class="project-image">🧠</div>
+      <div class="project-content">
+          <div class="project-title">Neural Network Optimization & Regularization</div>
+          <div class="project-description">Built CNNs from scratch and systematically evaluated optimization algorithms and regularization techniques, achieving 70.42% accuracy on CINIC-10.</div>
+          <div class="project-tech">
+              <span class="tech-tag">PyTorch</span>
+              <span class="tech-tag">CNN</span>
+              <span class="tech-tag">Optimization</span>
+              <span class="tech-tag">Regularization</span>
+          </div>
+      </div>
   </div>
-
-<div class="project-card" onclick="window.location.href='projects/neural-network-optimization/'">
-    <div class="project-image">🧠</div>
-    <div class="project-content">
-        <div class="project-title">Neural Network Optimization & Regularization</div>
-        <div class="project-description">Built CNNs from scratch and systematically evaluated optimization algorithms and regularization techniques, achieving 70.42% accuracy on CINIC-10.</div>
-        <div class="project-tech">
-            <span class="tech-tag">PyTorch</span>
-            <span class="tech-tag">CNN</span>
-            <span class="tech-tag">Optimization</span>
-            <span class="tech-tag">Regularization</span>
-        </div>
-    </div>
-</div>
+  
+  <div class="project-card" onclick="window.location.href='projects/neural-complete-rnn/'">
+      <div class="project-image">📝</div>
+      <div class="project-content">
+          <div class="project-title">Neural Complete: Character-Level RNN</div>
+          <div class="project-description">Implemented character-level RNN from scratch for text generation, achieving 100% accuracy on alphabet sequences and 55% on War and Peace with systematic hyperparameter optimization.</div>
+          <div class="project-tech">
+              <span class="tech-tag">PyTorch</span>
+              <span class="tech-tag">RNN</span>
+              <span class="tech-tag">NLP</span>
+              <span class="tech-tag">Hyperparameter Tuning</span>
+          </div>
+      </div>
+  </div>
 
   <div class="project-card" onclick="window.location.href='projects/llm-movie-title-generator/'">
     <div class="project-image">🎬</div>
@@ -45,21 +59,21 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
       </div>
     </div>
   </div>
-
-<div class="projects-list">
-  <div class="project-card" onclick="window.location.href='projects/mpi-parallelized-2d-convolution/'">
-    <div class="project-image">⚡</div>
-    <div class="project-content">
-      <div class="project-title">MPI-Parallelized 2D Convolution</div>
-      <div class="project-description">Accelerated 2D convolution using MPI parallelization with optimized data distribution and inter-process communication.</div>
-      <div class="project-tech">
-        <span class="tech-tag">Python</span>
-        <span class="tech-tag">MPI</span>
-        <span class="tech-tag">Parallel Computing</span>
+  
+  <div class="projects-list">
+    <div class="project-card" onclick="window.location.href='projects/mpi-parallelized-2d-convolution/'">
+      <div class="project-image">⚡</div>
+      <div class="project-content">
+        <div class="project-title">MPI-Parallelized 2D Convolution</div>
+        <div class="project-description">Accelerated 2D convolution using MPI parallelization with optimized data distribution and inter-process communication.</div>
+        <div class="project-tech">
+          <span class="tech-tag">Python</span>
+          <span class="tech-tag">MPI</span>
+          <span class="tech-tag">Parallel Computing</span>
+        </div>
       </div>
     </div>
   </div>
-</div>
 
   <div class="project-card" onclick="window.location.href='projects/obesity-west-virginia-analysis/'">
     <div class="project-image">📊</div>
@@ -145,19 +159,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
         <span class="tech-tag">Flask</span>
         <span class="tech-tag">SQL</span>
         <span class="tech-tag">Authentication</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="project-card" onclick="window.location.href='projects/tetris-game/'">
-    <div class="project-image">🧩</div>
-    <div class="project-content">
-      <div class="project-title">Tetris Game</div>
-      <div class="project-description">Classic puzzle game implementation with smooth controls, score tracking, and level progression system.</div>
-      <div class="project-tech">
-        <span class="tech-tag">Python</span>
-        <span class="tech-tag">Pygame</span>
-        <span class="tech-tag">Game Development</span>
       </div>
     </div>
   </div>
