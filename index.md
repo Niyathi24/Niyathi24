@@ -18,7 +18,7 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
     </div>
   </div>
   
-  <div class="project-card" onclick="window.location.href='projects/vue-nir-emotion-detection/'">
+  <div class="project-card" onclick="window.location.href='projects/VueNir/'">
     <div class="project-content">
       <div class="project-title">VueNir: Emotion & Crisis Detection System</div>
       <div class="project-description">Fine-tuned BERT with dual classification heads for 28 emotions and crisis-risk detection, improving performance by 10% through data balancing and custom loss functions.</div>
@@ -31,7 +31,7 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
     </div>
   </div>
 
-  <div class="project-card" onclick="window.location.href='projects/voice-shopping-assistant/'">
+  <div class="project-card" onclick="window.location.href='projects/ai-intent-recognition/'">
     <div class="project-content">
       <div class="project-title">Voice-Controlled Shopping Assistant</div>
       <div class="project-description">Built AI-powered Chrome extension with Picovoice Rhino speech recognition, enabling voice-controlled cart management and dual input modes.</div>
