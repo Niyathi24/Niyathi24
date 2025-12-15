@@ -1,8 +1,9 @@
-# Hands-on Neural Network Implementation & Optimization
+# Neural Network Optimization & Regularization
 
 ## Overview
 
 **Comprehensive Implementation of Neural Networks from Scratch to Production**
+
 This project documents a systematic journey through neural network fundamentals and advanced optimization techniques, implementing every component from basic operations to complex architectures while analyzing performance trade-offs. Through six structured modules, I built, trained, and optimized various network architectures while gaining deep understanding of underlying mechanics.
 
 ## Problem Statement
