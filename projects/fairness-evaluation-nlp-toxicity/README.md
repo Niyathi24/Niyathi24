@@ -10,7 +10,7 @@ This project evaluates the fairness and accuracy of three state-of-the-art NLP m
 
 **Do pre-trained toxicity detection models exhibit systematic bias against comments mentioning protected identities?**
 
-This project investigates whether models trained to detect toxic language disproportionately flag non-toxic comments containing identity references (gender, race, religion, sexual orientation), potentially silencing marginalized voices in online spaces.
+This project investigates whether models trained to detect toxic language disproportionately flag non-toxic comments containing identity references (gender, race), potentially silencing marginalized voices in online spaces.
 
 ## Dataset
 
@@ -78,6 +78,6 @@ This analysis provides:
 
 ## Team
 
-**Sreeniyathi Kasireddy** – Bias metric implementation, Comparative analysis, Visualizations, documentation
-**Mantra Burugu** – Presentation slides preparation, Results analysis, documentation
-**Farhana Rahman** – Dataset preparation Methods, documentation
+**Sreeniyathi Kasireddy**
+**Mantra Burugu**
+**Farhana Rahman**
