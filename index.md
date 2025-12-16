@@ -129,7 +129,6 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
       <div class="project-description">Low-power embedded weather station with ePaper display providing real-time analytics and storm prediction without cloud dependency.</div>
       <div class="project-tech">
         <span class="tech-tag">Embedded C</span>
-        <span class="tech-tag">RTOS</span>
         <span class="tech-tag">Power Optimization</span>
       </div>
     </div>
