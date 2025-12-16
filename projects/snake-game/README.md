@@ -67,9 +67,11 @@ python Tetris.py   # Play Tetris
 
 ## Project Structure
 ```
+.
 ├── Pixel.py
 ├── Grid.py
 ├── Snake.py
 ├── Tetrominoes.py
 ├── Tetris.py
 └── README.md
+```
