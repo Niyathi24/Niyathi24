@@ -178,11 +178,12 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 
   <div class="project-card" onclick="window.location.href='projects/snake-game/'">
     <div class="project-content">
-      <div class="project-title">Snake Game</div>
-      <div class="project-description">Retro arcade game.</div>
+      <div class="project-title">Snake and Tetris Games</div>
+      <div class="project-description">Interactive implementations of classic Snake and Tetris games</div>
       <div class="project-tech">
         <span class="tech-tag">Python</span>
-        <span class="tech-tag">Pygame</span>
+        <span class="tech-tag">Tkinter</span>
+        <span class="tech-tag">Numpy</span>
         <span class="tech-tag">Game Logic</span>
       </div>
     </div>
