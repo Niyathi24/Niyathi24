@@ -282,6 +282,9 @@ I am a senior Computer Engineering student at the University of Massachusetts Am
 ## Skills
 
 **Languages:** Python, C, ARM Assembly, MATLAB, JavaScript, SQL
+
 **ML/AI:** TensorFlow, PyTorch, NLP, Deep Learning, Hugging Face
+
 **Embedded:** Arduino, Raspberry Pi, Beaglebone Black, Signal Processing
+
 **Web:** Flask, HTML, SQL, Database Design
