@@ -1,5 +1,5 @@
 # Fairness Analysis of Pre-Trained NLP Models for Toxicity Detection
-[View Paper](Sreeniyathi_Kasireddy_paper.pdf)
+[Paper - "A Comparative Analysis of Pre-Trained NLP Models for Toxicity Detection and Unintended Bias"](Sreeniyathi_Kasireddy_paper.pdf)
 ## Overview
 
 **A Comparative Analysis of Pre-Trained NLP Models for Toxicity Detection and Unintended Bias**
