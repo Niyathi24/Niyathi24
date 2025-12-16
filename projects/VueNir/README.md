@@ -1,7 +1,7 @@
 # VueNir: Emotion & Crisis Detection System
 
 ## Project Overview
-Developed an advanced mental health monitoring system that simultaneously detects 28 distinct emotions and identifies critical suicide-risk indicators using fine-tuned BERT architecture. The system provides real-time emotional analysis with prioritized crisis detection for mental health applications.
+Developed an advanced mental health monitoring system that simultaneously detects 28 distinct emotions and identifies critical risk indicators using fine-tuned BERT architecture. The system provides real-time emotional analysis with prioritized crisis detection for mental health applications.
 
 ## Technical Implementation
 
