@@ -84,7 +84,6 @@ Design and build a compact, low-power weather station using Nordic Thingy52 and 
 - **Platform:** Nordic Thingy52 (nRF52832)
 - **Sensors:** Integrated environmental monitoring
 - **Display:** 2.13" ePaper with SPI interface
-- **Framework:** Nordic SDK with Zephyr RTOS
 - **Language:** C
 
 ## Team Contributors
